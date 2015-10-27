@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PackerAttackerHook", "PackerAttackerHook\PackerAttackerHook.vcxproj", "{01617E5A-503F-4F7E-B80D-58EB25E02D17}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PackerAttacker", "PackerAttacker\PackerAttacker.vcxproj", "{954B44E8-8992-46B6-B1CB-527EAB615B0C}"

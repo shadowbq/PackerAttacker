@@ -5,7 +5,7 @@
 The Packer Attacker is a generic hidden code extractor for Windows malware. It supports the following types of pacers:
 
 1. Running from heap
-2. Replaceing PE header
+2. Replacing PE header
 3. Injecting in a process
 
 
@@ -13,6 +13,7 @@ The Packer Attacker is based on Microsoft Detours.
 
 
 ## Compilation
+Using Visual Studio 2008
 
 Compile with Microsoft C++ 2010 and Detours library. You'll have two files:
 
